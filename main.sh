@@ -26,9 +26,9 @@ MYIP=$(wget -qO- ipinfo.io/ip)
 CITY=$(curl -s ipinfo.io/city)
 TIME=$(date +'%Y-%m-%d %H:%M:%S')
 RAMMS=$(free -m | awk 'NR==2 {print $2}')
-KEY="6761535040:AAGlQOMt4S9GYf5BX_h2NcvtnpX1ZZQMoy4"
+KEY="7318765669:AAGBgdao2Bcj_GNZJ_z1yDkTZYeudYkIHLk"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
-REPO="https://raw.githubusercontent.com/ekromvpn/SSH/main/"
+REPO="https://raw.githubusercontent.com/Mrz051/vip/main/"
 APT="apt-get -y install "
 domain=$(cat /root/domain)
 start=$(date +%s)
