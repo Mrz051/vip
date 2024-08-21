@@ -33,7 +33,7 @@ The solution simple install: `apt-get install ca-certificates`
 - Add 1GB SwapRAM
 - Dynamic installation
 - Tuning profiles on the server
-- Xray Core by @dharak36
+- Xray Core by @zenistu23
 - Added fail2ban
 
 ### PORT INFO
